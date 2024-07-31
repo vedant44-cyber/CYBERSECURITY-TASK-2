@@ -11,6 +11,7 @@ ubuntu 20.04.6 LTS<br>
 5.4.0-190-generic <br>
 ARM-64 arch<br>
 GNU/Linux <br>
+UTM (VM) <br>
 
 ## 1) Environment Setup:<br>
   ```bash
